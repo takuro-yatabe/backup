@@ -1,0 +1,213 @@
+@CHARSET "UTF-8";
+
+body {
+	width: 1200px;
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;
+	font-family: 'Hiragino Kaku Gothic proN', Meiryo, sans-serif;
+}
+
+#main {
+	width: 1200px;
+	height: 1700px;
+}
+
+#main .pickup_title {
+	text-align: center;
+}
+
+#main .slideshow {
+	width: 1000px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+#main img {
+	width: 1000px;
+	height: 600px;
+}
+
+#main .categorybox_book_title {
+	float: left;
+	width: 150px;
+	margin-left: 120px;
+	text-align: center;
+}
+
+#main .categorybox_kaden_title {
+	float: left;
+	width: 150px;
+	margin-left: 255px;
+	margin-right: 255px;
+	text-align: center;
+}
+
+#main .categorybox_omocya_title {
+	float: left;
+	width: 130px;
+	margin-right: 130px;
+	text-align: center;
+}
+
+#main .categorybox_book {
+	clear: both;
+	float: left;
+	width: 370px;
+	height: 730px;
+	margin-left: 10px;
+	border: 3px solid #eaeaea;
+	box-sizing: border-box;
+	font-size:15px;
+}
+#main .book_image1 img{
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-right:20px;
+	margin-left:20px;
+}
+
+#main .book_image2 img{
+	clear:both;
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:4px;
+}
+
+#main .book_image3 img{
+	clear:both;
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-bottom:20px;
+	margin-right:1px;
+	margin-left:20px;
+}
+#main .book_image4 img{
+	clear:both;
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-bottom:20px;
+	margin-right:35px;
+	margin-left:20px;
+}
+#main .categorybox_kaden {
+	float: left;
+	width: 370px;
+	height: 730px;
+	margin-left: 35px;
+	margin-right: 35px;
+	border: 3px solid #eaeaea;
+	box-sizing: border-box;
+}
+
+#main .kaden_image1 img{
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-right:50px;
+	margin-left:20px;
+}
+
+#main .kaden_image2 img{
+	clear:both;
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:50px;
+}
+
+#main .kaden_image3 img{
+	clear:both;
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-bottom:20px;
+	margin-right:50px;
+	margin-left:20px;
+}
+#main .kaden_image4 img{
+	clear:both;
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-bottom:20px;
+	margin-right:50px;
+	margin-left:20px;
+}
+
+#main .categorybox_omocya {
+	float: left;
+	width: 370px;
+	height: 730px;
+	margin-right: 10px;
+	border: 3px solid #eaeaea;
+	box-sizing: border-box;
+}
+#main .omocya_image1 img{
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-right:50px;
+	margin-left:20px;
+}
+
+#main .omocya_image2 img{
+	clear:both;
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:50px;
+}
+
+#main .omocya_image3 img{
+	clear:both;
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-bottom:20px;
+	margin-right:50px;
+	margin-left:20px;
+}
+#main .omocya_image4 img{
+	clear:both;
+	float:left;
+	width: 150px;
+	height: 150px;
+	border: 3px double #eaeaea;
+	margin-bottom:20px;
+	margin-right:50px;
+	margin-left:20px;
+}
+
+#footer {
+	text-align: center;
+	width: 100%;
+	height: 30px;
+}
